@@ -1,0 +1,502 @@
+@media only screen and (max-width: 1335px) {
+  .section2-bottom-content {
+    padding: 20px 100px 21px;
+  }
+  .section6-content {
+    gap: 30px;
+  }
+  .section6-jar {
+    gap: 120px;
+  }
+}
+
+@media only screen and (max-width: 1295px) {
+  .section2-bottom-content {
+    padding: 20px 50px 21px;
+  }
+  .section6-content {
+    gap: 0;
+  }
+  .section6-jar {
+    gap: 100px;
+  }
+}
+
+@media only screen and (max-width: 1230px) {
+  .section1 .container {
+    height: 100px;
+  }
+  .mordena-logo {
+    width: 230px;
+    height: 50px;
+  }
+  .pfizer-logo {
+    width: 230px;
+    height: 100px;
+  }
+  .astra-logo {
+    width: 230px;
+    height: 70px;
+  }
+  .sinovac-logo {
+    width: 230px;
+    height: 40px;
+  }
+  .section6 {
+    height: 1400px;
+  }
+  .section6-content {
+    gap: 230px 300px;
+  }
+  .section6-jar {
+    top: 270px;
+    gap: 0 420px;
+  }
+}
+@media only screen and (max-width: 1120px) {
+  .section6-content {
+    gap: 230px 200px;
+  }
+  .section6-jar {
+    gap: 0 300px;
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  .header-button {
+    display: none;
+  }
+  .header .container {
+    align-items: center;
+  }
+  .header-logo-text {
+    font-size: 25.5px;
+  }
+  .header-logo-line {
+    max-width: 80px;
+  }
+  .header-menu {
+    display: none;
+  }
+  .header-menu-icon {
+    display: block;
+    background-color: #c4c4c426;
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 71px;
+  }
+  .menu-icon {
+    width: 35px;
+    height: 35px;
+  }
+  .section1 {
+    min-height: 100px;
+  }
+  .section1 .container {
+    align-items: center;
+  }
+  .mordena-logo {
+    width: 170px;
+    height: 34px;
+    margin: 0 0 0 70px;
+  }
+  .pfizer-logo {
+    width: 170px;
+    height: 60px;
+  }
+  .astra-logo {
+    width: 170px;
+    height: 42px;
+    margin: 0;
+  }
+  .sinovac-logo {
+    width: 170px;
+    height: 30px;
+    margin: 0 71px 0 0;
+  }
+  .section2-bottom-content {
+    padding: 20px 38px 21px 45px;
+  }
+  .section3-content {
+    flex-wrap: wrap;
+  }
+  .section3-content-box {
+    margin-bottom: 45px;
+  }
+  .section6-content {
+    gap: 230px 50px;
+  }
+  .section6-jar {
+    gap: 0 150px;
+  }
+}
+
+@media only screen and (max-width: 920px) {
+  .section1 {
+    min-height: 80px;
+  }
+  .section1 .container {
+    height: 80px;
+    align-items: center;
+  }
+  .mordena-logo {
+    width: 148px;
+    height: 34px;
+    margin: 0 0 0 50px;
+  }
+  .pfizer-logo {
+    width: 148px;
+    height: 60px;
+  }
+  .astra-logo {
+    width: 148px;
+    height: 42px;
+    margin: 0;
+  }
+  .sinovac-logo {
+    width: 148px;
+    height: 30px;
+    margin: 0 50px 0 0;
+  }
+  .hero-section {
+    margin-top: 31px;
+  }
+  .hero-section-content {
+    flex-direction: column;
+    gap: 55px;
+  }
+  .hero-left-top-text {
+    font-size: 18px;
+  }
+  .hero-left-mid-text {
+    font-size: 36px;
+    margin-bottom: 40px;
+    max-width: 414px;
+  }
+  .hero-left-bottom-text {
+    font-size: 20px;
+    margin-bottom: 40px;
+    max-width: 502px;
+  }
+  .hero-right-content {
+    margin: 0 auto;
+  }
+  .hero-section-info {
+    margin: 39px 51px 0 50px;
+  }
+  .hero-bottom-info-background {
+    margin-top: 32px;
+    min-height: 242px;
+  }
+  .hero-bottom-info {
+    flex-direction: column;
+    justify-content: center;
+    gap: 41px;
+    min-height: 231px;
+    padding: 0 30px 0 12px;
+  }
+  .hero-bottom-content {
+    display: none;
+  }
+  .bottom-content-button {
+    display: none;
+  }
+  .hero-bottom-content-tablet {
+    display: block;
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    width: 100%;
+  }
+  .bottom-content-button-tablet {
+    background-color: var(--text-color-secondary);
+    color: var(--text-color-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 24px;
+    max-width: 253px;
+    width: 100%;
+    height: 69px;
+    border-radius: 20px;
+  }
+  .bottom-box-text {
+    font-size: 20px;
+  }
+  .section2-top-content {
+    font-size: 20px;
+    padding: 0;
+    justify-content: center;
+    width: 100%;
+  }
+  .section2-mid-content {
+    flex-direction: column;
+    max-width: 450px;
+    width: 100%;
+    margin: 40px 0 50px 0;
+  }
+  .section2-mid-box1 {
+    margin: 0;
+  }
+  .section2-content {
+    margin: 0 51px 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .section2-mid-button {
+    font-size: 20px;
+  }
+  .section2-bottom-content {
+    font-size: 14px;
+    max-width: 538px;
+  }
+  .section3-title {
+    flex-direction: column;
+    gap: 41px;
+  }
+  .section3-title-big-text {
+    font-size: 36px;
+  }
+  .section3-content {
+    margin-top: 50px;
+  }
+  .section3-mid-content,
+  .section3-right-content {
+    max-width: 296px;
+    min-height: 290px;
+  }
+  .mid-content-text,
+  .right-content-text {
+    font-size: 20px;
+    max-width: 230px;
+    margin-bottom: 20px;
+  }
+  .right-content-text {
+    margin-bottom: 22px;
+  }
+  .right-content-icon {
+    margin-bottom: 43px;
+  }
+  .section4 .container {
+    flex-direction: column;
+  }
+  .section4-left-content {
+    display: none;
+  }
+  .section4-right-content {
+    display: none;
+  }
+  .section4-left-content-title-tablet {
+    display: block;
+    margin: 40px 0 0 57px;
+    color: var(--text-color-tertiary);
+    font-weight: 700;
+    font-size: 36px;
+    max-width: 452px;
+    width: 100%;
+  }
+  .section4-left-content-tablet {
+    display: block;
+    margin: 70px 57px 49px 57px;
+  }
+  .section4-right-content-tablet {
+    display: block;
+    max-width: 401px;
+    width: 100%;
+    height: 575px;
+    margin: 40px 0 0 57px;
+  }
+  .full-name-text {
+    font-size: 20px;
+  }
+  .full-name-box {
+    font-size: 20px;
+  }
+  .mobile-number-big-text {
+    font-size: 20px;
+  }
+  .mobile-number-small-text {
+    font-size: 20px;
+  }
+  .phone-number-text {
+    font-size: 20px;
+  }
+  .verify-button {
+    font-size: 20px;
+  }
+  .section4-left-button {
+    font-size: 20px;
+    max-width: 652px;
+  }
+  .section5 {
+    min-height: 670px;
+  }
+  .section5-title-big-text {
+    font-size: 36px;
+  }
+  .section5-title-small-text {
+    font-size: 20px;
+  }
+  .section5-discription {
+    font-size: 18px;
+    max-width: 553px;
+  }
+  .section5-content {
+    margin-top: 0;
+    height: 300px;
+  }
+  .section5-img {
+    top: 60px;
+    max-width: 458px;
+    height: 343px;
+  }
+  .section5-content-row1 {
+    margin: 60px 57px 0 154px;
+    height: 65px;
+  }
+  .section5-box1-text {
+    padding: 12px 16px 11px 33px;
+    max-width: 150px;
+    height: 45px;
+  }
+
+  .corona-viruss {
+    left: -40px;
+    width: 65px;
+    height: 65px;
+    background-position: center;
+    background-size: contain;
+  }
+
+  .unhidden-text {
+    display: none;
+  }
+  .hidden {
+    display: block;
+  }
+  .section5-content-text {
+    font-size: 18px;
+  }
+  .section5-content-row2 {
+    margin: 26px 25px 0 88px;
+    height: 65px;
+  }
+  .section5-box2-text {
+    max-width: 224px;
+    width: 100%;
+    height: 45px;
+    padding: 12px 0 11px 25px;
+  }
+  .section5-box3-text {
+    max-width: 150px;
+    width: 100%;
+    height: 45px;
+    padding: 12px 17px 11px 33px;
+  }
+  .section5-row-box4 {
+    margin: 0;
+  }
+  .section5-box4-text {
+    max-width: 224px;
+    width: 100%;
+    height: 45px;
+    padding: 12px 8px 11px 31px;
+  }
+  .section5-content-row3 {
+    margin: 26px 11px 0 43px;
+    height: 65px;
+  }
+  .section5-box5-text {
+    max-width: 224px;
+    width: 100%;
+    height: 45px;
+    padding: 12px 11px 11px 35px;
+  }
+  .section5-box6-text {
+    max-width: 168px;
+    width: 100%;
+    height: 45px;
+    padding: 12px 19px 11px 41px;
+  }
+  .section6-title-small-text {
+    font-size: 20px;
+  }
+  .section6-title-big-text {
+    font-size: 36px;
+    text-align: center;
+  }
+  .section6-discription {
+    font-size: 18px;
+    max-width: 580px;
+  }
+  .enter-email-bg {
+    margin: 0 31px 0 28px;
+    height: 320px;
+  }
+  .enter-email-box {
+    height: 263px;
+  }
+  .enter-email-text {
+    margin-top: 16px;
+  }
+  .enter-email-big-text {
+    font-size: 36px;
+  }
+  .enter-email-small-text {
+    font-size: 20px;
+  }
+  .footer-bottom-content {
+    flex-direction: column;
+    gap: 40px;
+    margin: 0;
+  }
+  .footer-logo,
+  .footer-menu,
+  .footer-social {
+    margin-left: 50px;
+    max-width: 427px;
+  }
+  .footer-logo-text {
+    font-size: 25.5px;
+  }
+  .home,
+  .services,
+  .schedule,
+  .contactus {
+    font-size: 20px;
+  }
+  .icon {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media only screen and (max-width: 860px) {
+  .section6-content {
+    gap: 230px 0;
+  }
+  .section6-jar {
+    gap: 0 150px;
+  }
+}
+@media only screen and (max-width: 820px) {
+  .section6-content {
+    gap: 30px 50px;
+    top: 360px;
+  }
+  .section6-jar {
+    top: 330px;
+    gap: 0 500px;
+  }
+  .jar {
+    width: 173px;
+    height: 283px;
+  }
+}

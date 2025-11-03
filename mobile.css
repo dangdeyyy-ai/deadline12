@@ -1,0 +1,552 @@
+@media only screen and (max-width: 760px) {
+  .header-logo {
+    margin-left: 35px;
+  }
+  .header-menu-icon {
+    margin-right: 35px;
+  }
+  .header-logo-text {
+    font-size: 18px;
+  }
+  .hero-section-content {
+    margin: 0 35px;
+  }
+
+  .hero-left-content {
+    min-height: 0;
+  }
+  .hero-left-top-text {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+  .hero-left-mid-text {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .hero-left-bottom-text {
+    font-size: 14px;
+  }
+  .vaccine-btn {
+    max-width: 138px;
+    min-height: 50px;
+    font-size: 14px;
+  }
+  .help-btn {
+    max-width: 138px;
+    min-height: 50px;
+    font-size: 14px;
+  }
+  .hero-section-info {
+    margin: 77px 35px 0;
+    gap: 0;
+  }
+  .hero-bottom-content-tablet {
+    flex-direction: column;
+    gap: 14px;
+  }
+  .hero-bottom-info {
+    gap: 15px;
+  }
+  .top-info-text {
+    font-size: 14px;
+    margin-top: 6px;
+  }
+  .hero-bottom-info-background {
+    margin-top: 27px;
+  }
+  .hero-clock {
+    width: 30px;
+    height: 30px;
+  }
+  .clock-icon {
+    height: 20px;
+    width: 20px;
+  }
+  .bottom-content-button-tablet {
+    height: 50px;
+    width: 150px;
+    font-size: 14px;
+  }
+  .bottom-box-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .right-content-icon1 {
+    max-width: 50px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  .hero-icon1 {
+    width: 40px;
+    height: 32px;
+  }
+  .hero-right-content {
+    height: 317px;
+  }
+  .right-icon {
+    max-width: 300px;
+    top: 127px;
+  }
+  .right-content-icon2 {
+    max-width: 50px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  .right-content-doctor {
+    top: 240px;
+    left: -20px;
+  }
+  .right-content-box {
+    margin: 0 24px;
+    background-size: contain;
+    max-width: 256px;
+    height: 274px;
+    border-radius: 20px;
+  }
+  .right-content-doctor {
+    max-width: 238px;
+    height: 69px;
+  }
+  .doctor-image {
+    margin: 15px 0 15px 20px;
+    height: 38px;
+  }
+  .doc1,
+  .doc2,
+  .doc3 {
+    width: 38.8px;
+    height: 38.8px;
+  }
+  .doctor-right-content-text {
+    margin: 18px 0 0 0;
+  }
+  .doctor-right-content-text {
+    font-size: 14px;
+  }
+  .hero-icon2 {
+    width: 40px;
+    height: 32px;
+  }
+  .map-icon {
+    height: 20px;
+    width: 20px;
+  }
+  .grey-text {
+    font-size: 14px;
+  }
+  .bottom-box-text {
+    font-size: 14px;
+  }
+  .mordena-logo {
+    max-width: 72px;
+    min-height: 16.67px;
+    object-fit: contain;
+    margin-left: 35px;
+  }
+  .pfizer-logo {
+    max-width: 72px;
+    min-height: 29.62px;
+    object-fit: contain;
+  }
+  .astra-logo {
+    max-width: 72px;
+    min-height: 20px;
+    object-fit: contain;
+  }
+  .sinovac-logo {
+    max-width: 72px;
+    min-height: 14px;
+    object-fit: contain;
+    margin-right: 35px;
+  }
+  .section2-content {
+    margin: 0 35px;
+  }
+  .section2-mid-content {
+    min-height: 190px;
+  }
+  .section2-mid-box1 {
+    min-height: 50px;
+    width: auto;
+    font-size: 12px;
+    margin: 0 13px 0 12px;
+  }
+  .section2-mid-box2 {
+    min-height: 50px;
+    width: auto;
+    font-size: 12px;
+    margin: 0 13px 0 12px;
+  }
+  .section2-mid-button {
+    max-width: 150px;
+    min-height: 50px;
+    border-radius: 10px;
+    margin-right: 0;
+    margin-left: 12px;
+  }
+  .section2-top-content {
+    font-size: 10px;
+    font-weight: 700;
+  }
+  .section2-bottom-content {
+    margin: 0 12px 32px 13px;
+    font-size: 10px;
+    text-align: center;
+    padding: 12px 15px;
+    min-height: 50px;
+  }
+  .section3-title {
+    margin: 0 40px 0 35px;
+  }
+  .section3-title-big-text {
+    font-size: 24px;
+  }
+  .section3-title-small-text {
+    display: none;
+  }
+  .section3-title-small-text-tablet {
+    display: block;
+    font-size: 14px;
+  }
+  .section3-content {
+    margin: 40px 40px 0 35px;
+  }
+  .section3-left-content {
+    max-width: 276px;
+    min-height: 280px;
+    padding: 20px 0 0 20px;
+    border-radius: 20px 80px 20px 20px;
+  }
+  .left-content-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .section3-shield {
+    width: 30px;
+    height: 30px;
+  }
+  .left-content-big-text {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .left-content-small-text {
+    font-size: 12px;
+    margin-bottom: 25px;
+  }
+  .left-link-text {
+    font-size: 12px;
+  }
+  .arrow {
+    width: 20px;
+    height: 20px;
+  }
+  .section3-content-box {
+    flex-wrap: wrap;
+    gap: 30px 0;
+  }
+  .section3-mid-content {
+    min-height: 202px;
+    padding: 20px 12px 0 20px;
+    border-radius: 20px;
+  }
+  .section3-right-content {
+    min-height: 202px;
+    padding: 20px 12px 0 20px;
+    border-radius: 20px;
+  }
+  .mid-content-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 30px;
+  }
+  .user-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .mid-content-text {
+    font-size: 14px;
+  }
+  .mid-link-text {
+    font-size: 14px;
+  }
+  .right-content-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 30px;
+  }
+  .user-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .right-content-text {
+    font-size: 14px;
+  }
+  .right-link-text {
+    font-size: 14px;
+  }
+  .section4-left-content-title-tablet {
+    margin: 35px 73px 0 73px;
+    font-size: 24px;
+    max-width: 330px;
+    width: auto;
+  }
+  .section4-right-content-tablet {
+    margin: 20px 35px 0 35px;
+    max-width: 305px;
+    height: 437px;
+  }
+  .section4-right-content-box {
+    max-width: 289px;
+    height: 418px;
+    margin: 19px 0 0 15px;
+  }
+  .section4-img {
+    top: 53px;
+    max-width: 286px;
+    height: 365px;
+  }
+  .section4-right-text {
+    top: 36px;
+    font-size: 14px;
+  }
+  .section4-right-button {
+    top: 319px;
+    font-size: 14px;
+  }
+  .viruss {
+    width: 75px;
+    height: 72px;
+  }
+  .section4-left-content-tablet {
+    margin: 39px 19px 41px 35px;
+  }
+  .section4-left-content-box {
+    gap: 0;
+  }
+  .section4-left-button {
+    margin-top: 60px;
+  }
+  .section4-register-content {
+    margin: 20px 15px 0 4px;
+    justify-content: center;
+    gap: 20px;
+  }
+  .register {
+    font-size: 14px;
+  }
+  .check-status {
+    font-size: 14px;
+  }
+  .mobile-number-button {
+    flex-direction: column;
+  }
+  .phone-number-button {
+    max-width: 650px;
+  }
+  .phone-number-icon {
+    margin-left: 20px;
+  }
+  .verify-button {
+    max-width: 150px;
+    min-height: 50px;
+    font-size: 14px;
+    border-radius: 10px;
+  }
+  .section5 {
+    min-height: 300px;
+  }
+  .section5-title {
+    margin-top: 25px;
+  }
+  .section5-title-small-text {
+    font-size: 12px;
+  }
+  .section5-title-big-text {
+    font-size: 24px;
+  }
+  .section5-discription {
+    margin-top: 10px;
+  }
+  .section5-content {
+    height: 167px;
+    margin-top: 30px;
+  }
+  .section5-img {
+    max-width: 223px;
+    height: 167px;
+    top: 0;
+  }
+  .corona-viruss {
+    height: 31px;
+    width: 31px;
+    left: -16px;
+  }
+  .section5-content-row1 {
+    margin: 8px 28px 0 76px;
+    height: 32px;
+  }
+  .section5-content-row2 {
+    margin: 13px 13px 0 44px;
+    height: 32px;
+  }
+  .section5-content-row3 {
+    margin: 13px 6px 0 22px;
+    height: 32px;
+  }
+  .section5-row-box {
+    height: 32px;
+  }
+  .section5-row-box4 {
+    height: 32px;
+  }
+  .section5-box1-text {
+    width: 73px;
+    height: 22px;
+    padding: 5px 8px 5px 16px;
+  }
+  .section5-box2-text {
+    max-width: 109px;
+    height: 22px;
+    padding: 0 0 0 1px;
+  }
+  .section5-box3-text {
+    height: 22px;
+    padding: 5px 6px 5px 16px;
+  }
+  .section5-box4-text {
+    height: 22px;
+    padding: 0 0 0 15px;
+  }
+  .section5-box5-text {
+    height: 22px;
+    padding: 5px 0 0 15px;
+  }
+  .section5-box6-text {
+    height: 22px;
+    padding: 0 0 0 15px;
+  }
+  .section5-content-text {
+    font-size: 8.75px;
+    height: 10px;
+  }
+  .section6 {
+    height: 950px;
+  }
+  .section6-title {
+    margin-top: 30px;
+    min-height: 30px;
+  }
+  .section6-title-small-text {
+    font-size: 14px;
+  }
+  .section6-title-big-text {
+    font-size: 24px;
+  }
+  .section6-discription {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  .section6-jar {
+    top: 166px;
+    gap: 15px 0;
+    flex-direction: column;
+  }
+  .jar {
+    width: 124px;
+    height: 202px;
+  }
+  .section6-content {
+    top: 182px;
+  }
+  .box {
+    max-width: 305px;
+    height: 190px;
+    border-radius: 15px;
+  }
+  .section6-box-info {
+    margin: 23px 0 0 23px;
+  }
+  .avatar {
+    width: 53px;
+    height: 53px;
+  }
+  .section6-info-big-text {
+    font-size: 13.55px;
+  }
+  .section6-info-small-text {
+    font-size: 9.49px;
+  }
+  .section6-box1-text {
+    margin: 30px 0 0 26px;
+    font-size: 12.2px;
+    max-width: 254px;
+  }
+  .section6-box2-text {
+    margin: 30px 0 0 26px;
+    font-size: 12.2px;
+    max-width: 254px;
+  }
+  .enter-email-bg {
+    border-radius: 20px;
+    height: 206px;
+    top: -100px;
+  }
+  .enter-email-box {
+    border-radius: 20px;
+    height: 147px;
+  }
+  .enter-email-text {
+    gap: 5px;
+  }
+  .enter-email-big-text {
+    font-size: 18px;
+  }
+  .enter-email-small-text {
+    font-size: 10px;
+  }
+  .enter-email-bar {
+    max-width: 233px;
+    height: 40px;
+  }
+  .enter-email-bar-text {
+    max-width: 175px;
+    height: 40px;
+    font-size: 10px;
+  }
+  .enter-email-bar-button {
+    max-width: 58px;
+    height: 40px;
+  }
+  .send {
+    width: 23px;
+    height: 20px;
+  }
+  .footer-bottom-content {
+    gap: 20px;
+  }
+  .footer-logo {
+    min-height: 32px;
+    margin-left: 35px;
+    width: auto;
+  }
+  .footer-menu {
+    margin-left: 35px;
+    flex-direction: column;
+    width: auto;
+    gap: 10px;
+  }
+  .footer-social {
+    margin-left: 35px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .section3-content-box {
+    flex-direction: column;
+  }
+  .section3-mid-content,
+  .section3-right-content {
+    max-width: 188px;
+  }
+}
