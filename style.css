@@ -16,6 +16,8 @@ body {
 
 .header-hero {
   background-image: url(/assets/background.png);
+  background-position: 70% 100%;
+  background-size: 120%;
 }
 
 .header {
@@ -389,6 +391,12 @@ body {
 .bottom-content-box {
   display: flex;
   align-items: center;
+  gap: 20px;
+}
+.map-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
 }
 
 .bottom-box-icon {
@@ -967,7 +975,7 @@ body {
 
 .section4-img {
   position: absolute;
-  top: 70px;
+  top: 66px;
   max-width: 380px;
   width: 100%;
   object-fit: cover;
@@ -1437,6 +1445,7 @@ body {
   box-shadow: 0 4px 4px 0 #0000001a;
   font-weight: 500;
   font-size: 20px;
+  border: 0;
 }
 
 .enter-email-bar-button {

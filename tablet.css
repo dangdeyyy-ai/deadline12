@@ -19,7 +19,7 @@
     height: 100px;
   }
   .section6-content {
-    gap: 0;
+    gap: 10px;
   }
   .section6-jar {
     gap: 100px;
@@ -47,7 +47,7 @@
     height: 40px;
   }
   .section6 {
-    height: 1400px;
+    height: 1500px;
   }
   .section6-content {
     gap: 230px 300px;
@@ -131,11 +131,21 @@
   .section3-content-box {
     margin-bottom: 45px;
   }
+  .section6-title {
+    margin-top: 46px;
+  }
   .section6-content {
-    gap: 230px 50px;
+    gap: 30px 50px;
+    flex-direction: column;
+    top: 300px;
   }
   .section6-jar {
-    gap: 0 150px;
+    top: 267px;
+    flex-direction: column;
+  }
+  .jar {
+    max-width: 174px;
+    height: 283px;
   }
 }
 
@@ -429,6 +439,12 @@
     height: 45px;
     padding: 12px 19px 11px 41px;
   }
+  .section6 {
+    height: 1400px;
+  }
+  .section6-title {
+    min-height: 80px;
+  }
   .section6-title-small-text {
     font-size: 20px;
   }
@@ -483,24 +499,6 @@
 }
 
 @media only screen and (max-width: 860px) {
-  .section6-content {
-    gap: 230px 0;
-  }
-  .section6-jar {
-    gap: 0 150px;
-  }
 }
 @media only screen and (max-width: 820px) {
-  .section6-content {
-    gap: 30px 50px;
-    top: 360px;
-  }
-  .section6-jar {
-    top: 330px;
-    gap: 0 500px;
-  }
-  .jar {
-    width: 173px;
-    height: 283px;
-  }
 }
