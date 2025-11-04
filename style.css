@@ -617,7 +617,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  gap: 40px 0;
+  gap: 40px 10px;
   margin: 40px 71px 0 70px;
 }
 
@@ -686,6 +686,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 773px;
+  gap: 10px;
   /* width: calc((100% - 75px) / 2); */
 }
 
@@ -1115,6 +1116,7 @@ body {
   max-width: 300px;
   height: 70px;
   padding: 23px 61px 23px 127px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section5-box2-text {
@@ -1123,6 +1125,7 @@ body {
   max-width: 363px;
   height: 70px;
   padding: 23px 33px 23px 111px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .hidden {
@@ -1153,6 +1156,7 @@ body {
   max-width: 300px;
   height: 70px;
   padding: 23px 18px 23px 85px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section5-box4-text {
@@ -1161,6 +1165,7 @@ body {
   max-width: 363px;
   height: 70px;
   padding: 23px 20px 23px 102px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section5-content-row3 {
@@ -1177,6 +1182,7 @@ body {
   max-width: 363px;
   height: 70px;
   padding: 23px 63px 23px 129px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section5-box6-text {
@@ -1185,6 +1191,7 @@ body {
   max-width: 363px;
   height: 70px;
   padding: 23px 57px 23px 142px;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section6 {
@@ -1274,6 +1281,7 @@ body {
 
 .section6-content2 {
   background-color: #17c2ec;
+  box-shadow: 0 4px 4px 0 #00000040;
 }
 
 .section6-content3 {
